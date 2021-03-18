@@ -1,0 +1,7 @@
+export const SET_MOVIES = "SET_MOVIES";
+export const FILTER_BY_FAVOURITES = "FILTER_BY_FAVOURITES";
+export const ADD_REMOVE_TO_FAVOURITES = "ADD_REMOVE_TO_FAVOURITES";
+export const SEARCH_MOVIE = "SEARCH_MOVIE";
+export const SET_LOADING = "SET_LOADING";
+export const SET_PAGE = "SET_PAGE";
+export const SET_TOTAL_PAGE = "SET_TOTAL_PAGE";
